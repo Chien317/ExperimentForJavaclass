@@ -1,5 +1,5 @@
 # ExperimentForJavaclass
-This repository is for the java class
+This repository is for the first java class 
 
 
 This project is a bank account system for customer ,which register one`s name, age and balance.
