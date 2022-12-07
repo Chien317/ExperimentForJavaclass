@@ -1,5 +1,5 @@
 # ExperimentForJavaclass
-## This repository is for the second java class
+## This repository is for the Third java class
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Chien317/ExperimentForJavaclass/tree/main/experiment2)
 
